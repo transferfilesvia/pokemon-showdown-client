@@ -1,4 +1,5 @@
 node_modules/
+sprites/
 .DS_Store
 Thumbs.db
 npm-debug.log
